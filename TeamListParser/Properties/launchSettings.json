@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TeamListParser": {
+      "commandName": "Project",
+      "commandLineArgs": "en.md"
+    }
+  }
+}
